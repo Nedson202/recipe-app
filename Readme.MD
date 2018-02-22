@@ -20,9 +20,9 @@ http://docs.sequelizejs.com/
 
 How to get started?
 
-            Do git clone { repo-url }
+            Do: git clone https://github.com/Nedson202/recipe-app.git
 
-                    cd { repo }
+                    cd recipe-app
 
       npm i  --- to install the dependencies used
 
