@@ -20,12 +20,12 @@ http://docs.sequelizejs.com/
 
 How to get started?
 
-Do git clone { repo-url }
+            Do git clone { repo-url }
 
-cd { repo }
+                    cd { repo }
 
-npm i  --- to install the dependencies used
+      npm i  --- to install the dependencies used
 
-npm i -g nodemon --- to install nodemon globally
+          npm i -g nodemon --- to install nodemon globally
 
-                  nodemon
+                    nodemon
