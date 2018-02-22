@@ -29,3 +29,5 @@ How to get started?
           npm i -g nodemon --- to install nodemon globally
 
                     nodemon
+
+Update the config.json file in config folder with your db name and password
